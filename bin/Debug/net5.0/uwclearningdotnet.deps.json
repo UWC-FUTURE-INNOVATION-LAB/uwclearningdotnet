@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": "net5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net5.0": {
+      "uwclearningdotnet/1.0.0": {
+        "runtime": {
+          "uwclearningdotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uwclearningdotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

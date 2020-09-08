@@ -1,0 +1,14 @@
+F:\uwcworkarea\uwclearningdotnetgit\uwclearningdotnet\bin\Debug\net5.0\uwclearningdotnet.exe
+F:\uwcworkarea\uwclearningdotnetgit\uwclearningdotnet\bin\Debug\net5.0\uwclearningdotnet.deps.json
+F:\uwcworkarea\uwclearningdotnetgit\uwclearningdotnet\bin\Debug\net5.0\uwclearningdotnet.runtimeconfig.json
+F:\uwcworkarea\uwclearningdotnetgit\uwclearningdotnet\bin\Debug\net5.0\uwclearningdotnet.runtimeconfig.dev.json
+F:\uwcworkarea\uwclearningdotnetgit\uwclearningdotnet\bin\Debug\net5.0\uwclearningdotnet.dll
+F:\uwcworkarea\uwclearningdotnetgit\uwclearningdotnet\bin\Debug\net5.0\uwclearningdotnet.pdb
+F:\uwcworkarea\uwclearningdotnetgit\uwclearningdotnet\obj\Debug\net5.0\uwclearningdotnet.csprojAssemblyReference.cache
+F:\uwcworkarea\uwclearningdotnetgit\uwclearningdotnet\obj\Debug\net5.0\uwclearningdotnet.GeneratedMSBuildEditorConfig.editorconfig
+F:\uwcworkarea\uwclearningdotnetgit\uwclearningdotnet\obj\Debug\net5.0\uwclearningdotnet.AssemblyInfoInputs.cache
+F:\uwcworkarea\uwclearningdotnetgit\uwclearningdotnet\obj\Debug\net5.0\uwclearningdotnet.AssemblyInfo.cs
+F:\uwcworkarea\uwclearningdotnetgit\uwclearningdotnet\obj\Debug\net5.0\uwclearningdotnet.csproj.CoreCompileInputs.cache
+F:\uwcworkarea\uwclearningdotnetgit\uwclearningdotnet\obj\Debug\net5.0\uwclearningdotnet.dll
+F:\uwcworkarea\uwclearningdotnetgit\uwclearningdotnet\obj\Debug\net5.0\uwclearningdotnet.pdb
+F:\uwcworkarea\uwclearningdotnetgit\uwclearningdotnet\obj\Debug\net5.0\uwclearningdotnet.genruntimeconfig.cache
